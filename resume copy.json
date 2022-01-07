@@ -1,0 +1,302 @@
+{
+  "contacts": [
+    {
+      "type": "email",
+      "value": "junminahn@outlook.com"
+    },
+    {
+      "type": "link",
+      "icon": ["fa", "home"],
+      "value": "https://www.junminahn.com"
+    },
+    null,
+    {
+      "type": "link",
+      "icon": ["fab", "linkedin"],
+      "value": "https://www.linkedin.com/in/junminahn"
+    },
+    {
+      "type": "link",
+      "icon": ["fab", "github"],
+      "value": "https://github.com/junminahn"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Summary",
+      "type": "text",
+      "value": "Motivated Software Developer seeking opportunity to architect new software applications."
+    },
+    {
+      "title": "Skills",
+      "type": "list",
+      "colCount": 2,
+      "items": [
+        "Agile development methodologies",
+        "Task prioritization",
+        "optimization and performance tuning",
+        "Quality / Version Control (Git)",
+        "Proficient in HTML, CSS (SASS)",
+        "Specialities in back-end authentication and authorization",
+        "Container based architectures (Docker, Kubernetes, Openshift)",
+        "JavaScript expert (Node.js, Typescript, Flow)",
+        "Front-end (React, AngularJS, Angular 4+, jQuery)",
+        "Server Side (Node.js, PHP, ASP.Net, Ruby on Rails)",
+        "Single-page application (SPA) with RESTful APIs",
+        "Mobile Development (React Native, Ionic)",
+        "Testing Frameworks (Jest, Mocha, Selenium, Cypress)",
+        "Database (Oracle, SQL Server, MySQL, PostgreSQL, MongoDB)",
+        "Front-end assets bundler (Webpack, Gulp, Grunt)",
+        "CI/CD (CircleCI, Azure DevOps, Jenkins, Terraform)",
+        "DevOps Cloud Services (AWS, Google Cloud, Azure)",
+        "Other languages (Java, Python, Ruby, C#)"
+      ]
+    },
+    {
+      "type": "experience",
+      "title": "Experience",
+      "items": [
+        {
+          "jobTitle": "Full Stack Developer",
+          "employer": "Button Inc.",
+          "city": "Victoria",
+          "state": "BC",
+          "startDate": "2020-01-02",
+          "endDate": null,
+          "items": [
+            "Worked with development teams and product owner to build software solutions.",
+            "Designed front-side and backend-side architectures.",
+            "Developed and delivered scalable web applications in a continuous deployment environment.",
+            "Iteratively constructed applications in a test-driven environment, following DevOps best practices.",
+            "Handled a complex back-end environment, and created an accessible, clean and interactive user experience",
+            "Worked as part of an Agile team in a creative work-space where multi-disciplinary teams of public servants and private sector consultants can learn",
+            "Explored new technical aspects to improve the existing system and reduce technical debt"
+          ]
+        },
+        {
+          "jobTitle": "Software Developer",
+          "employer": "3 Trees Technical Inc.",
+          "city": "Victoria",
+          "state": "BC",
+          "startDate": "2017-07-01",
+          "endDate": "2019-12-31",
+          "items": [
+            "Developed new, efficient, and well-tested code for variety of different projects.",
+            "Performed server code optimization using benchmark scripts.",
+            "Initiated efforts to migrate legacy applications to modern application platform. (DB Migration, PHP version, Source Control; SVN to Git)",
+            "Coordinated with QA testers for end-to-end unit testing and post-production testing.",
+            "Modified existing legacy codebase to enhance performance and add new features."
+          ]
+        },
+        {
+          "jobTitle": "Web Developer (Part-time)",
+          "employer": "Self-employed",
+          "city": "Victoria",
+          "state": "BC",
+          "startDate": "2017-01-01",
+          "endDate": "2017-06-30",
+          "items": ["Provided web solutions for small business owners."]
+        },
+        {
+          "jobTitle": "C#.Net Windows Form Developer (Part-time)",
+          "employer": "Individual Freelancer",
+          "city": "Victoria",
+          "state": "BC",
+          "startDate": "2014-04-01",
+          "endDate": "2016-10-01",
+          "items": [
+            "Managed road map for system architecture, product design and development.",
+            "Developed a desktop application using C#.Net Windows Windows Forms."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "education",
+      "title": "Education and Training",
+      "items": [
+        {
+          "institution": "Camosun College",
+          "degree": "Diploma",
+          "field": "Computer Systems Technology",
+          "location": "Victoria BC",
+          "startDate": "2015-09-16",
+          "endDate": "2017-06-14"
+        },
+        {
+          "institution": "Suncheon National University",
+          "degree": "Diploma",
+          "field": "General Science",
+          "location": "South Korea",
+          "startDate": "2003-03-01",
+          "endDate": "2007-03-01"
+        }
+      ]
+    },
+    {
+      "title": "Accomplishment",
+      "marginBottom": "15px",
+      "type": "list",
+      "items": [
+        {
+          "title": "Battlesnake Intermediate division 3rd Prize, 2019",
+          "type": "list",
+          "items": [
+            "AI Competition for turn-based game",
+            "3rd place out of 65 teams in intermediate division",
+            "Implemented logic with zero-dependency"
+          ]
+        },
+        {
+          "title": "The Governor General’s Collegiate Bronze Medal, 2018",
+          "type": "text",
+          "value": "“Presented each year to recognize the exceptional academic accomplishments of a student who achieves the highest overall grade point average (GPA) from a diploma-level post-secondary college program.”"
+        },
+        {
+          "title": "Earned Technology Award of Excellence, 2017",
+          "type": "text",
+          "value": "“Awarded to a graduating student from a technology program who has demonstrated academic excellence and whose accomplishments outside of class exemplify Camosun College’s commitment to excellence in learning.”"
+        },
+        "The Dean's letter for the outstanding academic achievement (Q1~Q6)"
+      ]
+    },
+    {
+      "title": "Professional Developments",
+      "marginBottom": "15px",
+      "type": "list",
+      "items": [
+        {
+          "title": "Covault Brochure Application",
+          "type": "list",
+          "items": [
+            "Role: As a full-stack developer, to architect system structure and built backend APIs",
+            "Challenges: To transform XML feed and cache the transformed data to serve frontend",
+            "Framework: Node.js, ReactJS",
+            "Tools: Visual Studio Code, Github, Heroku, AWS"
+          ],
+          "url": "/projects?search=Covault Brochure App"
+        },
+        {
+          "title": "Audacious Inquiry: ULP - Unified Landing Page",
+          "type": "list",
+          "items": [
+            "Role: As a sub-contractor, to help the development process and to refactor technical debt away",
+            "Challenges: To understand the old & new technologies to apply changes within a minimum impact",
+            "Framework: Java liferay, ReactJS, FlexibleJS",
+            "Tools: Visual Studio Code, Docker, GitLab, Nexus"
+          ],
+          "url": "/projects?search=ULP - Unified Landing Page"
+        },
+        {
+          "title": "Udutu; Cloud Based LMS for Business",
+          "type": "list",
+          "items": [
+            "Role: Software Architect; helps migrate to Git from SVN; removes third-party binary files",
+            "Challenges: To run Windows on Mac; identify only necessary binaries from each bin directory",
+            "Framework: C#.Net Web Application",
+            "Tools: Visual Studio 2015, Git"
+          ],
+          "url": "/projects?search=UDUTU"
+        },
+        {
+          "title": "Zynergy Capital; Financing platform streamlines renewable energy capital",
+          "type": "list",
+          "items": [
+            "Role: Full-Stack Developer",
+            "Challenges: To architect a secure server with flexible permission system",
+            "Framework: MEAN.JS – MongoDB, Express, AngularJS, Node.js",
+            "Tools: Webpack, Jenkin, Git"
+          ],
+          "url": "/projects?search=ZYNERGY CAPITAL INC"
+        },
+        {
+          "title": "Teamist; Event technology platform manages events, teams, and members",
+          "type": "list",
+          "items": [
+            "Role: Full-Stack Developer",
+            "Framework: MEAN.JS – MongoDB, Express, AngularJS, Node.js",
+            "Tools: Gulp, Git"
+          ],
+          "url": "/projects?search=TEAMIST"
+        },
+        {
+          "title": "Image Management Tool; Windows application manages images",
+          "type": "list",
+          "items": [
+            "Role: Software Developer",
+            "Framework: C#.Net Windows Forms Application",
+            "DB: Access Database (.mdb)"
+          ],
+          "url": "/projects?search=BC PARKS IMAGE ORGANIZER"
+        }
+      ]
+    },
+    {
+      "title": "Personal Developments",
+      "marginBottom": "15px",
+      "type": "list",
+      "items": [
+        {
+          "title": "My Portfolio",
+          "type": "list",
+          "items": [
+            "Serverless React App",
+            "Hosting Service: Github Pages",
+            {
+              "type": "link",
+              "target": "_blank",
+              "color": "#37886a",
+              "value": "https://www.junminahn.com",
+              "url": "https://www.junminahn.com"
+            }
+          ]
+        },
+        {
+          "title": "Budwiz; Budget Management System",
+          "type": "list",
+          "items": [
+            "Framework: MEAN; MongoDB, Express, Angular 5, Node.js",
+            "Server: Node.js, NGINX",
+            "Tools: Webpack, Git",
+            "Hosting Service: Digital Ocean",
+            {
+              "type": "link",
+              "target": "_blank",
+              "color": "#37886a",
+              "value": "https://budwiz.herokuapp.com/",
+              "url": "https://budwiz.herokuapp.com/"
+            }
+          ],
+          "url": "/projects?search=BUDGET WIZARD"
+        },
+        {
+          "title": "Pixel Cents; Finance Management tool for photographers",
+          "type": "list",
+          "items": [
+            "Capstone final school project",
+            "Framework: Ruby On Rails, JQuery",
+            "DB: Postgres DB",
+            "Hosting Service: Heroku"
+          ],
+          "url": "/projects?search=Pixel Cents"
+        },
+        {
+          "title": "Quizpire; Quiz maker application",
+          "type": "list",
+          "items": [
+            "Framework: LAMP; Linux, Apache, MySQL, PHP",
+            "Hosting Service: 000webhost",
+            {
+              "type": "link",
+              "target": "_blank",
+              "color": "#37886a",
+              "value": "https://quizpire.herokuapp.com/play/3/1/",
+              "url": "https://quizpire.herokuapp.com/play/3/1/"
+            }
+          ],
+          "url": "/projects?search=Quizpire"
+        }
+      ]
+    }
+  ]
+}
